@@ -1,0 +1,17 @@
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/fresh_fish_app
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/assets/splashlogo.png
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/assets/logo.png
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/assets/splashlogo2.png
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Roboto-Regular.ttf
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/dilshansila/development/Fresh_Fish_APP-main/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
